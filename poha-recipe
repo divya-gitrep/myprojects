@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+   <title>Poha Recipe</title>
+   <meta charset="UTF-8">
+ </head>
+ <body>
+   <h1>Poha Recipe</h1>
+   <p>Welcome to D's kitchen, we are going to prepare tasty poha today. The ingredients for this recipe are listed below along with the intructions. Enjoy cooking!</p>
+<img src="https://media.istockphoto.com/id/670526200/photo/poha-indian-snacks.jpg?s=612x612&w=0&k=20&c=iEVKSfRzmcHxPIz1fKQBNzmcRpLbseh5vjXaRVckRZA=" alt="tasty poha">
+<h2>Ingredients</h2>
+<ul>
+  <li>Flattened rice</li>
+  <li>One onion</li>
+  <li>Jeera</li>
+  <li>Green Chilly</li>
+  <li>Turmeric</li>
+  <li>Salt</li>
+</ul>
+<h2>Instructions</h2>
+<ol>
+  <li>Soak falttened rice in water for a minute</li>
+  <li>Chop onion and chilly lengthwise</li>
+  <li>Heat oil in the pan</li>
+  <li>Add jeera and let it splutter</li>
+  <li>Saute onion and chilly</li>
+  <li>Add 1tsp turmeric</li>
+  <li>Add salt to taste</li>
+  <li>Add poha</li>
+  <li>Mix well</li>
+</ol>
+ </body>
+</html>
